@@ -6,6 +6,7 @@
 
 body {
     background: url(image_fondo1.jpg) no-repeat center top;
+
 }
 
 .content {
@@ -278,6 +279,9 @@ color: #945184;
     color: #945184;
     }
 
+#encode{
+    display: none;
+    }
 
 #login-diseño{
     display: none;
